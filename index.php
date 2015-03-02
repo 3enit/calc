@@ -5,6 +5,6 @@
     <title>Hello world!</title>
 </head>
 <body>
-There will be calculator! 
+There will be calculator!
 </body>
 </html>
